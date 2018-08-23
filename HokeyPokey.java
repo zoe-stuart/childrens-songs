@@ -70,9 +70,14 @@ public class HokeyPokey
         System.out.println("Hokey Pokey\n");
         
         singIt("right foot");
+        singIt("left foot");
         singIt("right hand");
-        singIt("backside");
+        singIt("left hand");
+        singIt("right side");
+        singIt("left side");
         singIt("nose");
+        singIt("backside");
+        singIt("head");
         singIt("whole self");
     }
    
